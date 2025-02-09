@@ -87,3 +87,5 @@ Have questions or suggestions? Reach out!
 ---
 🎉 *Happy Valentine's Day! Spread the love!* 💝
 
+*Note:This app is made just for fun and not meant to be taken seriosuly.*
+
