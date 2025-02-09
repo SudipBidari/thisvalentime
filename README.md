@@ -10,7 +10,6 @@
   - "No" Button: Gradually shrinks while an angry cat appears for 1 second.
   - "Yes" Button: Displays a love message with a translucent shy cat.
 - 💖 **Floating Hearts Animation**: Animated hearts continuously float in the background.
-- 📱 **Mobile-Friendly Design**: Ensures a smooth experience across all devices.
 - 🌐 **Firebase Integration**:
   - **Realtime Database**: Stores user names securely.
   - **Firebase Hosting**: Fast and reliable deployment.
