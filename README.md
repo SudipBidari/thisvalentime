@@ -1,7 +1,7 @@
 # 💖 ThisValentine - A Cute Valentine Proposal Web App
 
 ## 🌟 Overview
-**ThisValentine** is a fun and interactive Valentine’s Day web app designed to ask someone to be your valentine in a creative and adorable way. The app features a playful UI, floating hearts, a growing "Yes" button, and animated reactions based on user choices.
+**ThisValentime** is a fun and interactive Valentine’s Day web app designed to ask someone to be your valentine in a creative and adorable way. The app features a playful UI, floating hearts, a growing "Yes" button, and animated reactions based on user choices.
 
 ## ✨ Features
 - 📝 **Name Input Validation**: Ensures a valid name format (1-3 words, only letters, max 30 characters).
@@ -15,7 +15,7 @@
   - **Firebase Hosting**: Fast and reliable deployment.
 
 ## 🚀 Live Demo
-👉 **[Visit the Live Site](https://thisvalentine.web.app/)** 💝
+👉 **[Visit the Live Site](https://thisvalentime.web.app/)** 💝
 
 ## 🛠️ Installation & Setup
 ### 1️⃣ Clone the Repository
