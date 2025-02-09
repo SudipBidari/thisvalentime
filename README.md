@@ -20,8 +20,8 @@
 ## 🛠️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/thisvalentine.git
-cd thisvalentine
+git clone https://github.com/yourusername/thisvalentime.git
+cd thisvalentime
 ```
 
 ### 2️⃣ Install Dependencies
@@ -50,7 +50,7 @@ npm run build
 ```sh
 firebase deploy
 ```
-Once deployed, your site will be live on `https://thisvalentine.web.app/`.
+Once deployed, your site will be live on `https://thisvalentime.web.app/`.
 
 ## 📂 Project Structure
 ```
@@ -81,8 +81,8 @@ Pull requests are welcome! If you’d like to improve the app, follow these step
 
 ## 📧 Contact
 Have questions or suggestions? Reach out!
-📩 Email: yourname@email.com
-🔗 GitHub: [yourgithub](https://github.com/yourusername)
+📩 Email: prodinchoate@gmail.com
+🔗 GitHub: [Sudip Bidari](https://github.com/SudipBidari)
 
 ---
 🎉 *Happy Valentine's Day! Spread the love!* 💝
