@@ -5,14 +5,14 @@ import { getAnalytics } from "firebase/analytics";
 import "./App.css";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDH3DDaex2ywEjK09r2qpahqVVLpsPg4qQ",
+  apiKey: "MY_API_KEY",
   authDomain: "thisvalentime.firebaseapp.com",
   databaseURL: "https://thisvalentime-default-rtdb.firebaseio.com/",
   projectId: "thisvalentime",
   storageBucket: "thisvalentime.firebasestorage.app",
-  messagingSenderId: "609827049437",
-  appId: "1:609827049437:web:f95635185670b2b0d2f034",
-  measurementId: "G-LLBJ748PN3"
+  messagingSenderId: "Messaging_Sender_ID",
+  appId: "APP_ID",
+  measurementId: "MEASUREMENT_ID"
 };
 
 const createHeart = () => {
